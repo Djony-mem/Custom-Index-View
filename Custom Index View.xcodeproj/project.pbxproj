@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		767F47E925CED95B00080998 /* ThreeDotsIndexView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 767F47E825CED95B00080998 /* ThreeDotsIndexView.swift */; };
 		76B857BA25CDE8B20001A2A9 /* Custom_Index_ViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B857B925CDE8B20001A2A9 /* Custom_Index_ViewApp.swift */; };
 		76B857BC25CDE8B20001A2A9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B857BB25CDE8B20001A2A9 /* ContentView.swift */; };
 		76B857BE25CDE8B30001A2A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76B857BD25CDE8B30001A2A9 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		767F47E825CED95B00080998 /* ThreeDotsIndexView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeDotsIndexView.swift; sourceTree = "<group>"; };
 		76B857B625CDE8B20001A2A9 /* Custom Index View.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Custom Index View.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		76B857B925CDE8B20001A2A9 /* Custom_Index_ViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Custom_Index_ViewApp.swift; sourceTree = "<group>"; };
 		76B857BB25CDE8B20001A2A9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				76B857B925CDE8B20001A2A9 /* Custom_Index_ViewApp.swift */,
 				76B857BB25CDE8B20001A2A9 /* ContentView.swift */,
+				767F47E825CED95B00080998 /* ThreeDotsIndexView.swift */,
 				76B857BD25CDE8B30001A2A9 /* Assets.xcassets */,
 				76B857C225CDE8B30001A2A9 /* Info.plist */,
 				76B857BF25CDE8B30001A2A9 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				76B857BC25CDE8B20001A2A9 /* ContentView.swift in Sources */,
 				76B857BA25CDE8B20001A2A9 /* Custom_Index_ViewApp.swift in Sources */,
+				767F47E925CED95B00080998 /* ThreeDotsIndexView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
